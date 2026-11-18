@@ -1,0 +1,144 @@
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.AssemblyReference.cache
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfoInputs.cache
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfo.cs
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.dll
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.pdb
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\Elearnin.C706E8A7.Up2Date
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\refint\ElearningQuiz.Infrastructure.dll
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.genruntimeconfig.cache
+D:\Quiz app\.vs\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ref\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.dll
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.pdb
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfo.cs
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\Elearnin.C706E8A7.Up2Date
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\refint\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.genruntimeconfig.cache
+C:\Users\lihin\OneDrive\Desktop\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ref\ElearningQuiz.Infrastructure.dll
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.dll
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.pdb
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.AssemblyReference.cache
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfoInputs.cache
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfo.cs
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\Elearnin.C706E8A7.Up2Date
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\refint\ElearningQuiz.Infrastructure.dll
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.genruntimeconfig.cache
+D:\Quiz app Complete\Backend\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ref\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\deptadmin-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\users-me-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\users-me-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\users-me-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\users-me-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\lecturer-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\lecturer-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\lecturer-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\lecturer-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-migration-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-migration-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-migration-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-migration-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-final-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-final-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-final-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\quiz-fk-final-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-verified\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-verified\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-verified\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\student-quiz-build-verified\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-build-final\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-student-batch-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-student-batch-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-student-batch-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-student-batch-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-final\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-final\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-final\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-open-quiz-final\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-lecturer-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-lecturer-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-lecturer-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizBackend-lecturer-profile-build\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\elearning-api-verify\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\elearning-api-verify\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\elearning-api-verify\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\elearning-api-verify\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\elearning-dept-profile-verify\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\elearning-dept-profile-verify\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\elearning-dept-profile-verify\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\elearning-dept-profile-verify\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizInfrastructureBuild\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizInfrastructureBuild\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizInfrastructureBuild\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\AppData\Local\Temp\ElearningQuizInfrastructureBuild\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Debug\net9.0\ElearningQuiz.Core.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.AssemblyInfo.cs
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\Elearnin.C706E8A7.Up2Date
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\refint\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ElearningQuiz.Infrastructure.genruntimeconfig.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Debug\net9.0\ref\ElearningQuiz.Infrastructure.dll

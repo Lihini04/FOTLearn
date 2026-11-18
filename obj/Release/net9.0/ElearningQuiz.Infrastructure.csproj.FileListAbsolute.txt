@@ -1,0 +1,17 @@
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Release\net9.0\ElearningQuiz.Infrastructure.deps.json
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Release\net9.0\ElearningQuiz.Infrastructure.runtimeconfig.json
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Release\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Release\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Release\net9.0\ElearningQuiz.Core.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\bin\Release\net9.0\ElearningQuiz.Core.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.AssemblyInfo.cs
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\Elearnin.C706E8A7.Up2Date
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\refint\ElearningQuiz.Infrastructure.dll
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.pdb
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ElearningQuiz.Infrastructure.genruntimeconfig.cache
+C:\Users\lihin\OneDrive\Desktop\ElearningQuizBackend-20260810T144219Z-1-001\ElearningQuizBackend\learningQuiz.Infrastructure\obj\Release\net9.0\ref\ElearningQuiz.Infrastructure.dll

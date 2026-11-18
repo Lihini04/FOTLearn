@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ElearningQuiz.API/ElearningQuiz.API.csproj" />
+  <Project Path="ElearningQuiz.Core/ElearningQuiz.Core.csproj" />
+  <Project Path="learningQuiz.Infrastructure/ElearningQuiz.Infrastructure.csproj" />
+</Solution>
